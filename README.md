@@ -1,3 +1,4 @@
 # college-management-system-
 it helps in maintaing the management system of college 
-it is very benificial now a days .
+College Management System deals with all kind of student details, academic related reports, college details, course details, curriculum, batch details and other resource related details too. It tracks all the details of a student from the day one to the end of his course which can be used for all reporting purpose, tracking of attendance, progress in the course, completed semesters years, coming semester year curriculum details, exam details, project or any other assignment details, final exam result; and all these will be available for future references too.Our program will have the databases of Courses offered by the college under all levels of graduation or main streams, teacher or faculty's details, batch execution details, students' details in all aspects.
+ #######################I have attached a presentation which will help you in understanding its working easily##############################
